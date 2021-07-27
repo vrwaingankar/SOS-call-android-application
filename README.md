@@ -10,7 +10,7 @@ The application was built using MIT App Inventor
 
 Usage:
 By clicking on "Call Ambulance" or "Call Oxygen", a phone call will be connected to the service provider.
-By clicking on "Send Location" the user's current location in latitude and longitude will be sent to the service provider.
+By clicking on "Send Location" the user's current location in latitude and longitude will be sent to the service provider via SMS.
 Here the service provider is Ambulance or oxygen provider.
 
 NOTE: The application was not published on App store. It was circulated through WhatsApp.
